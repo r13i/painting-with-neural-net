@@ -6,11 +6,11 @@ In this project I build a multi-layer perceptron fed with pixel position as trai
 
 ### Result
 
-####### Input image:
+##### Input image:
 
 ![Input image](./astronaut.jpg "An astronaut image used as input")
 
-####### Progress made through iterations:
+##### Progress made through iterations:
 
 ![Iterative progress](./result.gif "GIF showing the progress made by training during iterations")
 
